@@ -1,0 +1,185 @@
+#header{
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+#menu{
+	  list-style-type: none;
+    overflow: hidden;
+    font-family: "Calibri";
+	  background-color: #80002a;
+}
+
+
+#menuContainer{
+  width: 1200px;
+  height: 34px;
+  margin: auto;
+  margin-top: 0;
+    margin-bottom: 16px;
+}
+
+
+#container{
+  
+  position: relative;
+  margin: auto;
+  background-color: black;
+  background-color: rgba(0,0,0,0.5);
+  height: 600px;
+  width: 1200px;
+}
+
+#contentInner{
+   margin-top: 0;
+    margin-bottom: 0;
+  position: absolute;
+  color: white;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 600px;
+  width: 1000px;
+  margin-left: 270px;
+  margin-top: 80px;
+}
+
+#stats{
+  color: white;
+}
+
+#bullet{
+	float:left
+}
+
+#form{
+	color: white;
+  font-family: "Calibri";
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #4d0019;
+}
+
+#body {
+
+  background-color: #cccccc;
+  background-image: url("backgroundTwo.jpg");
+  background-repeat: repeat;
+}
+
+div.bannerOne {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: url("banner.jpg");
+  position: absolute;
+  background-repeat: no-repeat;
+  height: 600px;
+  width: 1200px;
+ 
+}
+
+#rowOne{
+
+  color: white;
+  position: relative;
+  margin: auto;
+  background-color: black;
+  background-color: rgba(0,0,0,0.5);
+  height: 500px;
+  width: 1200px;
+  
+}
+
+#stats{
+  float: left;
+  font-family: "Calibri";
+  display: block;
+}
+
+#rowOneGrootFront{
+
+  margin-left: 200px;
+  display: inline;
+  background-image: url("1.jpg");
+  background-repeat: no-repeat;
+}
+
+#rowOneTitle{
+  font-family: "Calibri";
+  font-size: 26px;
+}
+
+#rowOneList{
+  font-family: "Calibri";
+  font-size: 16px;
+}
+
+#rowTwo{
+
+  position: relative;
+  margin: auto;
+  background-color: black;
+  background-color: rgba(0,0,0,0.5);
+  height: 600px;
+  width: 1200px;
+ 
+}
+
+#rowTwoGrootBack{
+  margin-top: 50px;
+  margin-left: 100px;
+  float: left;
+  
+ 
+}
+
+#rowTwoGrootCura{
+  margin-top: 50px;
+  margin-left: 130px;
+  float: left;
+  
+  
+}
+
+#rowThree{
+
+  color: white;
+  position: relative;
+  margin: auto;
+  background-color: black;
+  background-color: rgba(0,0,0,0.5);
+  height: 500px;
+  width: 1200px;
+  
+}
+
+#formWrapper{
+  float: left;
+  font-family: "Calibri";
+  display: block;
+}
+
+
+#trex{
+
+  margin-left: 390px;
+  display: inline;
+  background-repeat: no-repeat;
+}
+
+#trexTwo{
+
+  margin-left: 192px;
+  display: inline;
+  background-repeat: no-repeat;
+}
